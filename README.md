@@ -21,4 +21,4 @@ This is a simple authentication user interface built with React, Vite, and Pure 
 1. Clone the project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/authProject.git
+git clone https://github.com/PhoeKae/authProject.git
